@@ -1,0 +1,10 @@
+P:\universidad\n\nuevoC\NuevoCCCC\NuevoCCCC\bin\Debug\NuevoCCCC.exe.config
+P:\universidad\n\nuevoC\NuevoCCCC\NuevoCCCC\bin\Debug\NuevoCCCC.exe
+P:\universidad\n\nuevoC\NuevoCCCC\NuevoCCCC\bin\Debug\NuevoCCCC.pdb
+P:\universidad\n\nuevoC\NuevoCCCC\NuevoCCCC\obj\Debug\NuevoCCCC.csproj.AssemblyReference.cache
+P:\universidad\n\nuevoC\NuevoCCCC\NuevoCCCC\obj\Debug\NuevoCCCC.Form1.resources
+P:\universidad\n\nuevoC\NuevoCCCC\NuevoCCCC\obj\Debug\NuevoCCCC.Properties.Resources.resources
+P:\universidad\n\nuevoC\NuevoCCCC\NuevoCCCC\obj\Debug\NuevoCCCC.csproj.GenerateResource.cache
+P:\universidad\n\nuevoC\NuevoCCCC\NuevoCCCC\obj\Debug\NuevoCCCC.csproj.CoreCompileInputs.cache
+P:\universidad\n\nuevoC\NuevoCCCC\NuevoCCCC\obj\Debug\NuevoCCCC.exe
+P:\universidad\n\nuevoC\NuevoCCCC\NuevoCCCC\obj\Debug\NuevoCCCC.pdb
